@@ -1,0 +1,12 @@
+body{
+  @extend %averta;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #565656;
+}
+
+.container{
+  max-width: 1230px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
